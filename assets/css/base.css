@@ -103,4 +103,21 @@ body {
   height: 30px;
   object-fit: contain;
 }
+@media (max-width: 575.98px) {
+  .fixed-contact {
+    bottom: 12px;
+    right: 12px;
+    gap: 10px;
+  }
+
+  .fixed-contact a {
+    width: 36px;
+    height: 36px;
+  }
+
+  .fixed-contact a img {
+    width: 24px;
+    height: 24px;
+  }
+}
 /* END FIXED CONTACT */
