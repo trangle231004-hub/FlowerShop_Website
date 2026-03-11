@@ -21,7 +21,7 @@ A responsive front-end flower shop website built with **HTML, CSS, JavaScript, a
 ## 📁 Project Structure
 ```bash
 assets/
-├── Home.html
+├── index.html
 ├── css/
 │   ├── base.css
 │   └── style.css
@@ -38,7 +38,7 @@ assets/
    ```
 2. Open the project in VS Code.
 3. Run with **Live Server** (recommended) and open:
-   - `assets/Home.html`
+   - `assets/index.html`
 
 ## 👤 Author
 - Trang Le Thi Thuy
